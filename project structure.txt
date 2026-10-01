@@ -1,0 +1,106 @@
+institute_management/
+│
+├── database/
+│   └── institute_management.sql
+│
+├── index.php
+├── about.php
+├── courses.php
+├── faculty.php
+├── registration.php
+├── enquiry.php
+├── contact.php
+├── jobs.php
+├── events.php
+├── notes.php
+├── placement.php
+├── certificate.php
+├── online_test.php
+├── login.php
+├── logout.php
+├── config.php
+│
+├── includes/
+│   ├── header.php
+│   ├── navbar.php
+│   ├── sidebar.php
+│   └── footer.php
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── admin/
+    ├── login.php
+    ├── dashboard.php
+    ├── logout.php
+    │
+    ├── students/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── courses/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── faculty/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── fees/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── attendance/
+    │   ├── add.php
+    │   └── view.php
+    │
+    ├── enquiries/
+    │   ├── view.php
+    │   ├── approve.php
+    │   └── delete.php
+    │
+    ├── admissions/
+    │   └── view.php
+    │
+    ├── placement/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── jobs/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── events/
+    │   ├── add.php
+    │   ├── view.php
+    │   ├── edit.php
+    │   └── delete.php
+    │
+    ├── certificates/
+    │   ├── add.php
+    │   └── view.php
+    │
+    ├── notes/
+    │   ├── add.php
+    │   ├── view.php
+    │   └── delete.php
+    │
+    └── online_test/
+        ├── add_question.php
+        ├── questions.php
+        └── results.php
